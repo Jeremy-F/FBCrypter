@@ -1,0 +1,11 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "repository": {
+    "type": "ChromeApp",
+    "url": "http://www.creatio.fr/"
+  },
+  "dependencies": {
+    "openpgp": "^2.3.2"
+  }
+}
